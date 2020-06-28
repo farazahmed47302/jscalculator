@@ -1,0 +1,26 @@
+.main
+{
+    border: 2px solid black;
+    width: 200px;
+    margin: 0 auto;
+}
+
+.result
+{
+    background-color: cornflowerblue;
+    width: 97%;
+}
+
+.clearbtn
+{
+    background-color: skyblue;
+    width: 100%;
+    margin-top: 10px;
+}
+
+.btn
+{
+    background-color: skyblue;
+    margin: 5px ;
+    width: 37px;
+}
